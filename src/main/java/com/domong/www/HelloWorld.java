@@ -39,7 +39,7 @@ public class HelloWorld extends HttpServlet {
 		writer.println("<head>");
 		writer.println("</head>");
 		writer.println("<body>");
-		writer.println("<h1>나오니?~~~!!!</h1>");
+		writer.println("<h1>한글 출력하기~~~!!!</h1>");
 		writer.println("</body>");
 		writer.println("</html>");
 		
